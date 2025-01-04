@@ -3,7 +3,6 @@ import search from "@/assites/search.png";
 import Top from "@/assites/top.png";
 import React from "react";
 import Image from "next/image";
-import Nav from "@/assites/nav.png";
 import Call from "@/assites/call.png";
 import Mail from "@/assites/mail.png";
 import Link from "next/link";

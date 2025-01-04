@@ -6,7 +6,6 @@ import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 import { Navigation, Pagination } from 'swiper/modules';
 import Image from 'next/image';
-import View from "@/assites/view.png";
 type Testimonial = {
   quote: string;
   name: string;
